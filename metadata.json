@@ -1,0 +1,5 @@
+{
+  "name": "CV Ranker AI",
+  "description": "An intelligent recruitment tool that uses Gemini AI to evaluate, score, and rank multiple CVs against a Job Description.",
+  "requestFramePermissions": []
+}
